@@ -1,0 +1,2 @@
+NÉV	ÁTLAG	Teljisíti-e a tárgyat
+Alma1	3.1666666666666665	true

@@ -1,0 +1,4 @@
+Alma1 true 4 1 2 3 4 5 3
+Alma2 true 2 1 2
+Alma2 true 2 4 5
+Alma3 true 2 1 2
